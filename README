@@ -1,0 +1,11 @@
+This is a simple Processing app designed for touchscreen or NFC tags
+
+Features:
+- countdown timer
+- prints photos to physical printer
+- posts photo via http request
+- NFC tag integration
+
+You must configure one of the outputs (printer or HTTP request) via the config.txt file
+
+Tested on Windows 7
