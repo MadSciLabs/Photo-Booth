@@ -1,0 +1,4 @@
+url=http://yourposturl.com/
+printer=The name of your printer
+envent id=0
+location id=0
